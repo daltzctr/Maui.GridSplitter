@@ -1,0 +1,8 @@
+# Shell script and server binary (same name)
+Phoenix-diagnostics-server binary
+PhoenixDiagnosticsProgram binary
+# These are shell scripts, ensure they are Linux compliant
+*S25Phoenix_diagnostics_server text eol=lf
+*Phoenix-diagnostics-server-template text eol=lf
+*frcdebug text eol=lf
+*robotDebugCommand text eol=lf
